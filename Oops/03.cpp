@@ -15,7 +15,9 @@ public:
 };
 
 int main() {
-    Student s1;
-    s1.setName("Rahul");
+    Student s1("Bob");
     s1.display();
+    // default Copy constructor
+    Student s2(s1);
+    s2.display();
 }
