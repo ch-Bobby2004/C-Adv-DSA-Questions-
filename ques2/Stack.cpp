@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// 1️⃣ Implement a stack and reverse a string using it.
+// 1 Implement a stack and reverse a string using it.
 
 int main() {
 	string str = "Bobby";

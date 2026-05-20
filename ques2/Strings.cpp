@@ -1,4 +1,4 @@
-// 1️⃣ Check if a string is a palindrome; without using any built-in reverse function.
+// 1 Check if a string is a palindrome; without using any built-in reverse function.
 // #include <bits/stdc++.h>
 // using namespace std;
 
@@ -32,7 +32,7 @@
 
 
 
-// 2️⃣ Find the first non-repeating character in a string.
+// 2 Find the first non-repeating character in a string.
 // Example: "aabbcdeff" → c
 
 //burate force code 
@@ -109,10 +109,10 @@
 
 
 // Time Complexity:
-// O(n) + O(n) = O(n) ✔️
+// O(n) + O(n) = O(n) 
 
 // Space Complexity:
-// freq[26] → constant size → O(1) ✔️
+// freq[26] → constant size → O(1) 
 	
 
 

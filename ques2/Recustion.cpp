@@ -1,5 +1,5 @@
 
-// 2️⃣ Check whether an array is sorted using recursion.
+// 2Check whether an array is sorted using recursion.
 
 
 // bool isSorted(int arr[], int n) {

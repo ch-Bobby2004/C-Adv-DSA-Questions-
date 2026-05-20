@@ -1,4 +1,4 @@
-// 1️⃣ Find the sum of digits of a number using recursion.
+// 1 Find the sum of digits of a number using recursion.
 // Example: 123 → 6
 
 

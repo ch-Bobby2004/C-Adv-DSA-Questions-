@@ -1,4 +1,4 @@
-// 1️⃣ Find the second largest element in an array without sorting.
+// 1 Find the second largest element in an array without sorting.
 
 
 // #include <bits/stdc++.h>
